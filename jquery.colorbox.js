@@ -1,5 +1,5 @@
 /*!
-	Colorbox 1.6.4
+	Colorbox 1.6.4.765-accessibility-compliance
 	license: MIT
 	http://www.jacklmoore.com/colorbox
 */

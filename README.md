@@ -3,6 +3,10 @@ A customizable lightbox plugin for jQuery.  See the [project page](http://jacklm
 
 ## Changelog:
 
+##### Version 1.6.4.765 - 2017/03/28
+
+* Forked and patched version that passes accessibility tests. Fixes #765
+
 ##### Version 1.6.4 - 2016/05/10
 
 * Fixed bug where using the inline property would duplicate target elements, if the selector matched multiple elements.
